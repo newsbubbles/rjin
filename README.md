@@ -2,6 +2,7 @@
 Make a deliverable HTML file to view tabular data from pandas in python.
 
 ## Benefits
+- Super lightweight: 16kb on disk
 - Make your csv data beautiful instead of an eye sore for laymen
 - Don't need Excel or spreadsheet software, no apps required
 - Mobile friendly data viewing as well
