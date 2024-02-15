@@ -1,6 +1,13 @@
 # rjin
 Make a deliverable HTML file to view tabular data from pandas in python.
 
+## Benefits
+- Make your csv data beautiful instead of an eye sore for laymen
+- Don't need Excel or spreadsheet software, no apps required
+- Mobile friendly data viewing as well
+- Deliverable in a format everyone can open
+- Dark mode by design ^_^
+
 ## Use Case
 
 I am a programmer/data scientist and sometimes I have data I need to show a client or non-techy team member. I use `rjin` to turn my CSV data into a single HTML file that acts as a record viewer so that the person viewing only needs a browser to see the data, and the data is nicely formatted, readable, and best of all, has a nice dark style so it goes easy on the eyes. I made `rjin` have the smallest possible footprint and provide only the most base features because I'm a minimalist when it comes to UX.
