@@ -1,3 +1,5 @@
+# Free to use, do whatever you want with it
+# coded with love by @newsbubbles
 import json
 from typing import Any
 
