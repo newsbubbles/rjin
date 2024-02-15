@@ -28,6 +28,8 @@ data = [
 
 rjin(data, output_path="my/output/path/report.html")
 ```
+### Output
+![Screenshot from 2024-02-15 11-44-21](https://github.com/newsbubbles/rjin/assets/1012779/48dc6233-8673-4fb1-87f0-873ead20999e)
 
 ## Example using pandas
 It is important to note that rjin does not use pandas format, so each row must be converted to a `dict` in order to feed into the `rjin` function
